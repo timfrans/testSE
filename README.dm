@@ -1,5 +1,7 @@
 # README
 
+testSE V1.0
+
 Dit is de read me.
 Hier kan je alle info vinden over dit project.
 
